@@ -1,3 +1,9 @@
+# Running the application
+- clone my repo
+- install dependencies using `npm install`
+- Change the MongoDB connection string as per your machine
+- Follow steps below to run respective servers
+
 # Running the server
 `nodemon index.js`
 
